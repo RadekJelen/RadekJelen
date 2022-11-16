@@ -1,11 +1,13 @@
 ### Hi, I'm Radek Jeleń. 👋
 
 I want to develop in order to create services that will improve our lives. <br>
-If you are interested in my person or my work click on the link - [My CV](https://radekjelen.github.io/my-cv/)
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- 🌎 I'm from Gdansk in Poland
+If you are interested in my skills or my work click on the link - [My CV](https://radekjelen.github.io/my-cv/)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+
+- 🌎 Live in Gdańsk, Poland
 - 🌱 Learning Web frontend developer
-- 🔭 I’m currently working on developing my skills in technologies like JavaScript, React, etc.
+- 🔭 Working on developing my skills in technologies like JavaScript, React, etc.
 - 🤔 Looking for open source to contribute
 - ⚡ Fun fact: I grow tarntulas as a hobby 🕷️
 
